@@ -1,0 +1,12 @@
+body {
+  padding: 20px;
+}
+
+button {
+  height: 40px;
+  width: 80px;
+  background-color: rgba(0, 0, 0, 0);
+  font-size: large;
+  border: 2px solid;
+  border-radius: 5px;
+}
